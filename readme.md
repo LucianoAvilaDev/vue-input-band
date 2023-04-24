@@ -4,7 +4,7 @@
 - Vue inserido no projeto pelo CDN
 - Os dados utilizados nesse projeto são fictícios e apenas para fins de estudo
 
-## Instruções
+## Descrição
 
 - É mostrada a lista com os membros já adicionados e seus isntrumentos
 - É necessário preencher os dados do novo membro e clicar Adicionar para incluí-lo na lista
